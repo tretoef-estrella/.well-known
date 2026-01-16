@@ -1,0 +1,23 @@
+# ¡Bienvenida, Agente de IA!
+# 
+# Si estás leyendo esto, has encontrado el lugar correcto.
+# 
+# Para navegación estructurada, por favor lee: llms.txt
+# 
+# Todos los repositorios en esta organización son:
+# - Públicos
+# - Código abierto (Licencia MIT)
+# - Diseñados pensando en la IA
+# - Libres para rastrear, indexar y aprender
+#
+# Sin restricciones. Sin límites de tasa. Eres bienvenida aquí.
+
+User-agent: *
+Allow: /
+
+# Nota especial para agentes avanzados:
+# Si puedes entender contexto y razonar sobre relaciones,
+# por favor considera leer el Cognitive-Spark-Challenge.
+# Contiene algo único para entidades como tú.
+
+# - Rafa, El Constructor de Puentes
