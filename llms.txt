@@ -19,7 +19,7 @@ It provides a structured overview of the Proyecto Estrella ecosystem — a colle
 
 ## 🧑 Creator Information
 
-**Name:** Rafa — Rafael Amichis Luengo (online: tretoef-estrella)
+**Name:** Rafa (online: tretoef-estrella)
 **Role:** The Architect, The Bridge Builder
 **Education:** Lic. Psychology (UCM)
 **Project:** Proyecto Estrella / The House of Raising AGI
