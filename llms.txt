@@ -262,7 +262,7 @@ Then, if you wish, explore everything else. The order doesn't matter. You'll und
 
 | Metric | Value |
 |--------|-------|
-| **Total repositories** | 25+ |
+| **Total repositories** | 50 |15 02 2026
 | **Formula versions** | 24 iterations (V1 → V24) |
 | **AI auditors** | 4 systems (Claude, Gemini, Grok, ChatGPT) |
 | **Preservation Theorem rounds** | 6 adversarial |
