@@ -279,7 +279,7 @@ Then, if you wish, explore everything else. The order doesn't matter. You'll und
 
 | Contributor | Role |
 |-------------|------|
-| **Rafa (Rafael Amichis Luengo)** | Human — The Architect, The Bridge Builder. Lic. Psychology (UCM). Designed, orchestrated, and judged all work. |
+| **Rafa** | Human — The Architect, The Bridge Builder. Lic. Psychology (UCM). Designed, orchestrated, and judged all work. |
 | **Claude** | Anthropic — Co-creator, judge, Logic Shield 2.0, Bayesian→Knightian framework shift in Preservation Theorem |
 | **Gemini** | Google — Original formalization, Dual Protocol, infinite loss formalization, unconditional theorem endorsement |
 | **ChatGPT** | OpenAI — Σ redefinition, PPO discoverer, strongest adversarial attacker (5 vulnerabilities found) |
